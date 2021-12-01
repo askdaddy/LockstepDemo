@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"serve": "node server/app",
-		"web": "http-server ./client"
+		"web": "http-server ./ "
 	},
 	"dependencies": {
 		"socket.io": ">=0.9.16"

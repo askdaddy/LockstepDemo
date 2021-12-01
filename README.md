@@ -19,7 +19,7 @@ $  yarn serve
 * 客户端（也可使用任意方法启动一个web服务）
 ```shell
 $ yarn web
-
+// 打开 http://..../client/
 ```
 
 * 启动完成后访问：终端上打印的web地址)
